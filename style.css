@@ -1,0 +1,101 @@
+/* Background color */
+html {
+  background-color: #cabfb6;
+}
+
+/* Center-fixed width */
+body {
+  width: 600px;
+  padding: 10px 100px;
+  padding-bottom: 60px;
+  background-color: white;
+  margin: auto;
+}
+
+/* Base font */
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Unordered list font */
+ul {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-top: 0px;
+}
+
+/* Margins */
+#margin1 {
+  margin: 0px;
+}
+
+#margin2 {
+  margin: 0px;
+}
+
+/* Explore the Debate button */
+#explore {
+  background-color: #c9793b;
+  padding: 10px 20px;
+  margin: 30px;
+  margin-top: 0px;
+  color: black;
+  border-radius: 5px;
+  font-size: 17px;
+  border-color: transparent;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Explore button */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  border: 1px solid black;
+}
+
+#center {
+  text-align: center;
+}
+
+/* H2 font */
+.proza-libre-regular {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Paragraph font */
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Android and Apple buttons */
+#container button,
+p {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+#android {
+  background-color: #a4c93b;
+  font-size: 20px;
+  padding: 5px 30px;
+  border-color: #b6bcca;
+  border-radius: 5px;
+  font-family: "Open Sans", sans-serif;
+}
+
+#apple {
+  background-color: #b6bcca;
+  font-size: 20px;
+  padding: 5px 30px;
+  border-color: #b6bcca;
+  border-radius: 5px;
+  font-family: "Open Sans", sans-serif;
+}
